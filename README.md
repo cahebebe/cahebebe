@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cahebebe
-- 👀 I’m interested in PHP, Pascal, C and Python
-- 🌱 I’m currently learning GPC
+- 👀 I’m interested in PHP, Pascal, C, Java and Python
+- 🌱 I’m currently learning in MisionTIC 2021
 - 💞️ I’m looking to collaborate on telephony projects.
 - 📫 How to reach me in cahebebe at gmail
 
