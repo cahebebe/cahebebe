@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cahebebe
-- 👀 I’m interested in PHP, Pascal, C, Java, Kotlin, HTML5 and Python
+- 👀 I'm working in PHP, Pascal, C, Java, Kotlin, HTML5 and Python
 - 💞️ I’m looking to collaborate on telephony projects.
 - 📫 How to reach me in cahebebe at gmail
 
